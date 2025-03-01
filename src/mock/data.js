@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpeg',
   paragraphOne:
-    'Hi, I am a Full Stack Software Development Engineer with 3+ years of experience and expertise in Business-driven applications, Data Analytics, Ecommerce software, and growth engineering.',
+    'Hi, I am a Full Stack Software Development Engineer with 5+ years of experience and expertise in Business-driven applications, Data Analytics, Ecommerce software, and growth engineering.',
   paragraphTwo: '',
   paragraphThree: '',
   resume:
